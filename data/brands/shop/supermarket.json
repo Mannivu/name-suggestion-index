@@ -11824,6 +11824,15 @@
         "name:ja": "関西スーパー",
         "shop": "supermarket"
       }
+    },
+    {
+      "displayName": "Italmark",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Italmark",
+        "name": "Italmark",
+		"brand:wikidata": "Q126392586"
+      }
     }
   ]
 }
