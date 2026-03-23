@@ -149,6 +149,15 @@
         "office": "association",
         "official_name": "Deutsche Lebens-Rettungs-Gesellschaft"
       }
+    },{
+      "displayName": "Fratres",
+      "locationSet": {"include": ["it"]},
+      "tags": {,
+        "brand": "Fratres",
+        "brand:wikidata": "Q3752459",
+        "name": "Fratres",
+        "office": "association"
+      }
     },
     {
       "displayName": "Greenpeace",
@@ -182,6 +191,16 @@
         "brand": "Malteser Hilfsdienst",
         "brand:wikidata": "Q1318397",
         "name": "Malteser Hilfsdienst",
+        "office": "association"
+      }
+    },
+    {
+      "displayName": "Misericordie",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "Misericordie",
+        "brand:wikidata": "Q3686541",
+        "name": "Misericordie",
         "office": "association"
       }
     },
